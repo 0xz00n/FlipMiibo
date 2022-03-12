@@ -1,5 +1,5 @@
 # FlipMiibo
-Convert BIN to Flipper Zero compatible format
+Convert BIN to Flipper Zero compatible NFC format
 
 ## Usage
 1. Drop FlipMiibo.py into directory containing BIN files
