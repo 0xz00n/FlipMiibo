@@ -9,5 +9,7 @@ Convert BIN to Flipper Zero compatible NFC format
 5. ???
 6. Profit!
 
+![Demo](demo.webp)
+
 ## Requirements
 Python3
